@@ -16,10 +16,8 @@ A simple login page interface created using HTML and CSS.
 login-page/
 ├── Project.html
 ├── README.md
-├── screenshots/
 │   └── login-page.png
-└── demo/
-    └── login-page-demo.mp4
+    └── login-page-demo.mov
 ## How to Run
 1. Download or clone this repository.
 2. Open the project folder.
@@ -30,7 +28,7 @@ No additional installation or dependencies are required.
 ### Login Page
 ![Login Page](login-page.png)
 ## Demo Video
-[Click here to watch the demo video](demo/login-page-demo.mp4)
+[Click here to watch the demo video](login-page-demo.mov)
 ## Future Improvements
 * Add JavaScript functionality
 * Add form validation
