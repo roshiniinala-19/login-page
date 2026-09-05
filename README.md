@@ -28,7 +28,7 @@ login-page/
 No additional installation or dependencies are required.
 ## Screenshots
 ### Login Page
-![Login Page](screenshots/login-page.png)
+![Login Page](login-page.png)
 ## Demo Video
 [Click here to watch the demo video](demo/login-page-demo.mp4)
 ## Future Improvements
